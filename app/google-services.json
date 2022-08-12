@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827885993653",
+    "firebase_url": "https://parabolic-rope-353509-default-rtdb.firebaseio.com",
+    "project_id": "parabolic-rope-353509",
+    "storage_bucket": "parabolic-rope-353509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827885993653:android:1593e9a3bcfebcb58e88fc",
+        "android_client_info": {
+          "package_name": "com.example.e_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827885993653-5qdmqn34clm02s5531d1qk5nf72lqcbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3d295bzOKlLsdeNy3pisq1Jvng3xwLEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827885993653-5qdmqn34clm02s5531d1qk5nf72lqcbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
